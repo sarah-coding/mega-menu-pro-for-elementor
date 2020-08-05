@@ -1,5 +1,3 @@
-This is public repository of Mega Menu Pro for Elementor plugin where customers can interact with developers.
-
 ## For documentation
 
 Please refer to [Wiki](https://github.com/sarah-coding/mega-menu-pro-for-elementor/wiki) page!

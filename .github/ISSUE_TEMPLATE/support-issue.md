@@ -7,6 +7,8 @@ assignees: sarah-coding
 
 ---
 
+!IMPORTANT: DO NOT post any sensitive info such as email address, purchase code...here
+
 **Describe your issue**
 A clear and concise description of what is your problem.
 

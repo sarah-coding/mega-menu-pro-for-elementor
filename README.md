@@ -1,3 +1,5 @@
+**WARNING: DO NOT post any sensitive data such as email, password, purchase code... here!**
+
 ## For documentation
 
 Please refer to [Wiki](https://github.com/sarah-coding/mega-menu-pro-for-elementor/wiki) page!
@@ -16,4 +18,5 @@ If there's no feature that you're looking for, feel free to [create a Feature Re
 
 ## For support
 
-Please shoot us an email at [contact.sarahcoding@gmail.com](mailto:contact.sarahcoding@gmail.com) along with your **purchase code** for **VIP support**. For standard support, please [create a support issue](https://github.com/sarah-coding/mega-menu-pro-for-elementor/issues/new?assignees=sarah-coding&labels=help+wanted&template=support-issue.md&title=%5BSUPPORT%5D+A+descriptive+title+about+your+problem)!
+Please shoot me an email at [contact.sarahcoding@gmail.com](mailto:contact.sarahcoding@gmail.com) along with your **purchase code** for **better support**.
+

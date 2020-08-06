@@ -1,16 +1,16 @@
 ---
 name: Support issue
-about: A support issue other than bug report or feature request
+about: A help-wanted issue other than bug report or feature request
 title: "[SUPPORT] A descriptive title about your problem"
 labels: help wanted
 assignees: sarah-coding
 
 ---
 
-**Describe the issue**
+**Describe your issue**
 A clear and concise description of what is your problem.
 
-**To Reproduce**
+**To Reproduce (if possible)**
 Steps to reproduce the problem:
 1. Go to '...'
 2. Click on '....'
@@ -22,6 +22,9 @@ A clear and concise description of what you want.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+
+**Website Address**
+Besides screenshots or description, please provide your website address so that we can take a close look at your problem.
 
 **System Environment:**
  - OS: [e.g. MacOS]

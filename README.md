@@ -1,10 +1,8 @@
-## Welcome to public tracking repository of Elementor Mega Menu Pro!
-
-**:exclamation:IMPORTANT, DO NOT post any sensitive data such as email, password, purchase code... here!**
+**:exclamation:DO NOT post any sensitive data such as email, password, purchase code... here!**
 
 ## Documentation
 
-Please refer to [Wiki](https://github.com/sarah-coding/mega-menu-pro-for-elementor/wiki) page!
+Please refer to [Main Documentation](https://sarahcoding.com/docs/elementor-mega-menu) page!
 
 ## Bug report
 

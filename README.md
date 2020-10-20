@@ -20,18 +20,6 @@ If there's no feature that you're looking for, feel free to [create a Feature Re
 
 Please shoot me an email at [contact@sarahcoding.com](mailto:contact@sarahcoding.com) along with your **purchase code** for **better support**.
 
-## This is a heading
-
-This is heading 2
-
-### This is a heading
-
-This is heading 3
-
-
-#### This is a heading
-
-This is heading 4
 
 
 
